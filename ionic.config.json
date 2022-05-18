@@ -1,0 +1,7 @@
+{
+  "name": "TestMap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
