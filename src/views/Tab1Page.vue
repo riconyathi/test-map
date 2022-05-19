@@ -30,7 +30,7 @@ export default  defineComponent({
     const map = ref(null);
     const mapDivRef = ref(null);
 
-    const key = "AIzaSyDuQbYTtgD64DsfsEnGhFc4-Vjfi4_7mfQ";
+    const key = "";
 
     const googleMapScript = document.createElement("SCRIPT");
     
