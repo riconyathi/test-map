@@ -47,7 +47,7 @@ export default  defineComponent({
           map.value = new window.google.maps.Map(mapDivRef.value, {
            mapTypeId : "roadmap",
            zoom : 15,
-           disableDefaultUi : false,
+           disableDefaultUI : false,
            center : { lat : -25.953960 , lng : 28.142630 }
 
           });
